@@ -1,6 +1,6 @@
 # 💻 About Me
 
-🎓 I am currently studying **Computer Science** in Poland, where I also live. My passion lies in web development (Back-End), and I aspire to grow as a **Back-End Developer**, contributing to impactful and scalable solutions while constantly improving my skills and knowledge.
+🎓 I am currently studying **Computer Science** in Poland, where I live. My passion lies in web development (Back-End), and I aspire to grow as a **Back-End Developer**, contributing to impactful and scalable solutions while constantly improving my skills and knowledge.
 
 ---
 
@@ -12,7 +12,7 @@
 
 🌍 **Languages I Speak:**
 - **Polish** (Native) 🇵🇱  
-- **English** (B2) 🇬🇧
+- **English** (B2) 🇬🇧 
 
 ---
 
