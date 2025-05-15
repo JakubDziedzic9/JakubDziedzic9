@@ -27,7 +27,7 @@ My passion lies in back-end web development, and I aspire to grow further by bui
 <div align="center">
 
   <a href="https://www.php.net"><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
-  <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
+  <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 
 </div>
@@ -55,11 +55,12 @@ My passion lies in back-end web development, and I aspire to grow further by bui
 
 ---
 
-### 🗄️ Databases
+### 📦 Databases & Tools
 
 <div align="center">
 
   <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.phpmyadmin.net/"><img src="https://img.shields.io/badge/-phpMyAdmin-F38020?style=for-the-badge&logo=phpmyadmin&logoColor=white" /></a>
 
 </div>
 
@@ -93,4 +94,4 @@ My passion lies in back-end web development, and I aspire to grow further by bui
 
 - 📚 **Learn JavaScript and Node.js** – Expand into full-stack development and enhance front-end integration.  
 - 🧠 **Master Testing & Architecture** – Build maintainable, scalable applications with proper testing and architectural design.  
-- 🗃️ **Advance Database Proficiency** – Explore optimization, indexing, and advanced SQL features.
+- 🗃️ **Advance Database Proficiency** – Explore optimization, indexing, and better query building techniques.
