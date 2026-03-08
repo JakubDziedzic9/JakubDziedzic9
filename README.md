@@ -11,7 +11,7 @@ My passion lies in back-end web development, and I aspire to grow further by bui
 
 <div align="center">
 <p>
-<a href="https://www.linkedin.com/in/jakub-dziedzic-226209332/">
+<a href="https://www.linkedin.com/in/jakub-d-226209332/">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
