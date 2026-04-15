@@ -56,6 +56,7 @@ My passion lies in back-end web development, and I aspire to grow further by bui
 <div align="center">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/phpMyAdmin-F38020?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
 
 </div>
 
@@ -66,12 +67,10 @@ My passion lies in back-end web development, and I aspire to grow further by bui
 <div align="center">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=white"/>
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-<img src="https://img.shields.io/badge/phpMyAdmin-F38020?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
